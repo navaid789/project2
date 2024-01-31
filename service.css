@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    background-color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.table {
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+address {
+    text-align: center;
+}
+    
+

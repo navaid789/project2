@@ -1,0 +1,46 @@
+
+div {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+  }
+  
+  
+  h1 {
+    color: #333;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  
+  .image {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .image2 {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  
+  .para {
+    color: #555;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  
+  @media screen and (max-width: 600px) {
+    .image,
+    .image2 {
+      max-width: 100%;
+    }
+  }
+
+    
+    
+
